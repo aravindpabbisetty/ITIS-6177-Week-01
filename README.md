@@ -1,4 +1,4 @@
-## Group 15
+## CCN Project Group 15
 ### Team Members:
 #### Srikar Chamarthy - 801317299
 #### Aneela Gannarapu - 801312361
